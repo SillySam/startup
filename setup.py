@@ -9,7 +9,7 @@ with open('LICENSE') as f:
 setup(
     name='Startup',
     version='0.1.0',
-    description='A python library to allow scripts to be added to startup easily',
+    description='Python library for adding scripts to startup',
     long_description=readme,
     author='Sam Redmond',
     url='https://github.com/SillySam/startup',
